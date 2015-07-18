@@ -4,7 +4,7 @@
 > 本例子主要用到模块：wechat-wrap
 > 模块安装： npm install wechat-wrap
 
-示例代码使用Nodejs的[sails](http://sailsjs.org/)框架，模版引擎[jade](http://jade-lang.com/)，关键代码：
+示例代码使用[Nodejs](http://nodejs.org/)的[sails](http://sailsjs.org/)框架，模版引擎[jade](http://jade-lang.com/)，关键代码：
 
 ## nodejs
 
