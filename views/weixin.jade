@@ -1,0 +1,10 @@
+extends m_layout
+block stylesheets
+
+block scripts
+	script(src="/js/weixin.js?t=2015041501",type="text/javascript",charset="utf-8")
+block body
+	#wrap(data-config="#{JSON.stringify(data.jsconfig)}",data-conetent="#{JSON.stringify(data)}")
+		#test hideOptionMenu
+		#content
+		#config
